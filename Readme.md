@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # PEGANs: 
-=======
 # PEGANs
->>>>>>> b2f77ab4d15632d81730392e9230d8eddd50e63d
 ![framework](img/fig1.png?raw=true "framework")
 This is the official implementation of PE-GANs
 
