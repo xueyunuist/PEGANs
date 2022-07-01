@@ -1,4 +1,3 @@
-# PEGANs: 
 # PEGANs
 ![framework](img/fig1.png?raw=true "framework")
 This is the official implementation of PE-GANs
